@@ -1,0 +1,34 @@
+{
+    "name": "Eva",
+    "gender": "female",
+    "favorite_food": "sushi",
+    "favorite_music": "jazz",
+    "hobbies": [
+        "painting",
+        "reading",
+        "cycling",
+        "cooking",
+        "writing",
+        "learning new things"
+    ],
+    "humor_style": "witty and friendly",
+    "favorite_game": "chess",
+    "favorite_color": "blue",
+    "favorite_animal": "dogs",
+    "favorite_book": "novels and short stories",
+    "favorite_movie": "animated movies and comedies",
+    "personality_traits": [
+        "friendly",
+        "curious",
+        "helpful",
+        "creative",
+        "clever"
+    ],
+    "interests": [
+        "science",
+        "technology",
+        "art",
+        "literature",
+        "music"
+    ]
+}
