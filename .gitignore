@@ -1,1 +1,18 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# Model weights
+*.pt
+*.bin
+
+# Editor settings
+.vscode/
+.idea/
 
