@@ -68,7 +68,7 @@ python Eva.py
 ## 📁 Project Structure
 
 ```text
-eva-ai-chat/
+eva-assistant/
 ├─ Eva.py              # Main application file
 ├─ profile.json        # User profile for personalized responses
 ├─ .gitignore          # Git ignored files
