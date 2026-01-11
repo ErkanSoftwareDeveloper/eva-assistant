@@ -36,8 +36,8 @@ Eva remembers recent conversations, responds naturally, and simulates a personal
 Clone the repository:
 
 ```bash
-git clone https://github.com/ErkanSoftwareDeveloper/eva-ai-chat.git
-cd eva-ai-chat
+git clone https://github.com/ErkanSoftwareDeveloper/eva-assistant.git
+cd eva-assistant
 ```
 
 Install dependencies:
