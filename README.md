@@ -1,11 +1,11 @@
-# 🤖 Eva — AI Chat Assistant
+#  Eva — AI Chat Assistant
 
 A conversational **AI chat desktop application** built with **Python**, **Tkinter**, and **Hugging Face Transformers**.
 Eva remembers recent conversations, responds naturally, and simulates a personalized AI companion.
 
 ---
 
-## ✨ Features
+##  Features
 
 * Chat with Eva in a user-friendly GUI
 * Memory of the last few conversation turns
@@ -20,7 +20,7 @@ Eva remembers recent conversations, responds naturally, and simulates a personal
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * **Tkinter** – GUI framework
@@ -31,7 +31,7 @@ Eva remembers recent conversations, responds naturally, and simulates a personal
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -50,7 +50,7 @@ Make sure you have **PyTorch** installed with a compatible version for your syst
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the application:
 
@@ -65,7 +65,7 @@ python Eva.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 eva-assistant/
@@ -78,14 +78,14 @@ eva-assistant/
 
 ---
 
-## 📸 Video
+##  Video
 
 ![2026-01-1111-26-57-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/edbb6829-84e2-4c3f-a7d7-aa74a52ebf54)
 
 
 ---
 
-## 🚀 Possible Improvements
+##  Possible Improvements
 
 * Voice input/output
 * Conversation history saving/loading
@@ -95,6 +95,6 @@ eva-assistant/
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for **educational and personal use**.
